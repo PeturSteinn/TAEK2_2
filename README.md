@@ -1,7 +1,7 @@
 # TÆK2TÖ05BU vor 2017
 ## Git verkefni 2
 ## 1. Fyrir hvað stendur skammstöfunin RAM? Útskýrðu hvað RAM er.
-### Svar: RAM stendur fyrir Random Access Memory eða vinnsluminni á Íslensku. Vinnsluminnið er næsthraðvirkasta minnið sem að tölvan er með fyrir utan minnið sem örgjafarnir eru með en það minni eru einungis nokkur megabyte á meðan vinnsluminni geta verið upp yfir 100GB ef að stuðningur er til staðar.
+### RAM stendur fyrir Random Access Memory eða vinnsluminni á Íslensku. Vinnsluminnið er næsthraðvirkasta minnið sem að tölvan er með fyrir utan minnið sem örgjafarnir eru með en það minni eru einungis nokkur megabyte á meðan vinnsluminni geta verið upp yfir 100GB ef að stuðningur er til staðar.
 ## 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 ### Svar
 ## 3. Hvað er fyrirbyggjandi viðhald?
