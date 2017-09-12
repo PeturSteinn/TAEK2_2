@@ -8,9 +8,10 @@
 ## 3. Hvað er fyrirbyggjandi viðhald?
 ### Svar:
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
-### ESD stendur fyrir Electrostatic Discharge. ESD getur komið fyrir þegar t.d. einstaklingur sem er að meðhöndla tölvubúnað, snertir íhlutinn þegar hann er með hlaðið upp rafmagn í líkamanum og eyðileggur eitthvað. Ýmsar leiðir eru til til að komast framhjá þessu óhappi. **ESD armbönd** eru eitt af þeim, það er þegar sá sem er að meðhöndla íhlutinn er jarðtengdur með armbandi um úlliðinn eða ökklann. **ESD mottur** eru líka notaðar, það er þegar íhlutur er geymdur á mottu sem ver hluti sem geymdir eru á henni, frá rafmagni.
+### ESD stendur fyrir Electrostatic Discharge. ESD getur komið fyrir þegar t.d. einstaklingur sem er að meðhöndla tölvubúnað, snertir íhlutinn þegar hann er með hlaðið upp rafmagn í líkamanum og eyðileggur eitthvað. Ýmsar leiðir eru til til að komast framhjá þessu óhappi. ESD armbönd eru eitt af þeim, það er þegar sá sem er að meðhöndla íhlutinn er jarðtengdur með armbandi um úlliðinn eða ökklann. **ESD mottur** eru líka notaðar, það er þegar íhlutur er geymdur á mottu sem ver hluti sem geymdir eru á henni, frá rafmagni.
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
-### Svar:
+### Hvort að þeir séu nógu kraftmiklir til að keyra vélbúnaðinn sem ættlast er til að nota.
+Eins er hægt að fara út í sparneytni ef maður hefur áhuga á því. Svo líka að versla frá viðurkenndum aðila.
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ### Svar:
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
