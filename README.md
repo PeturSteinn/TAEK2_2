@@ -14,7 +14,7 @@
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ### Svar:
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
-### Svar:
+### Svar: Closed ended spurning er spurning sem leitar eftir stuttu svari eins og t.d. já/nei. Open ended spurning er spurning sem krefst þess að sá sem svarar, rökstyðji eða gefi langt svar, eiginlega eins og þessi spurning.
 ## 8. Hvað eru jaðartæki?
 ### Svar:
 ## 9. Nefndu þrjú dæmi um inntakstæki.
