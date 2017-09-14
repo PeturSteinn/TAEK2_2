@@ -13,7 +13,7 @@
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
 ### Svar:
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
-### Closed ended spurning er spurning sem leitar eftir stuttu svari eins og t.d. já/nei. Open ended spurning er spurning sem krefst þess að sá sem svarar, rökstyðji eða gefi langt svar, eiginlega eins og þessi spurning.
+### Closed ended spurning er spurning sem leitar eftir stuttu svari eins og já/nei. Open ended spurning er spurning sem krefst þess að sá sem svarar, rökstyðji eða gefi langt svar, eiginlega eins og þessi spurning.
 ## 8. Hvað eru jaðartæki?
 ### Jaðartæki eru tæki sem að þú tengir við tölvuna, algengustu tilfelli með USB tengi. Eftir að jaðartæki er stungið í samband þjónar það þeim tilgangi sem það á að gera.
 ## 9. Nefndu þrjú dæmi um inntakstæki.
