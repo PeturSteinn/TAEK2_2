@@ -16,8 +16,8 @@
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ### Svar: Closed ended spurning er spurning sem leitar eftir stuttu svari eins og t.d. já/nei. Open ended spurning er spurning sem krefst þess að sá sem svarar, rökstyðji eða gefi langt svar, eiginlega eins og þessi spurning.
 ## 8. Hvað eru jaðartæki?
-### Svar:
+### Svar: Jaðartæki eru tæki sem að þú tengir við tölvuna, algengustu tilfelli með USB tengi. Eftir að jaðartæki er stungið í samband þjónar það þeim tilgangi sem það á að gera.
 ## 9. Nefndu þrjú dæmi um inntakstæki.
-### Svar:
+### Svar: Mús, SD card reader, webcam.
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 ### Svar:
