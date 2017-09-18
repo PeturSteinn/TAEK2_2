@@ -25,7 +25,7 @@
 ### Mús, SD card reader, webcam.
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 |Íhlutur|Verslun|Verð|
-|-------|-------|---:|
+|:------|-------|---:|
 |i7-7700K|<a href="https://odyrid.is/vara/intel-core-i7-7700k-quad-core-orgjorvi-unlocked-retail-an-viftu">Ódýrið</a>|45.900,-|
 |GA-Z270 Gaming K3|<a href="https://odyrid.is/vara/gigabyte-s1151-ga-z270x-gaming-k3-modurbord-cc1151-z270-gam-k3">Ódýrið</a>|24.990,-|
 |GTX 1080 Aorus|<a href="https://odyrid.is/vara/aorus-geforce-gtx-1080-skjakort-8gb-gddr5x">Ódýrið</a>|83.990,-|
