@@ -5,7 +5,7 @@
 ## 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 ### ROM stendur fyrir Read Only Memory. Þegar hefur verið skrifað á ROM chip er aldrei hægt að eyða því. Ólíkt RAM, þar sem öllum gögnum er eydd þegar búið er að slökkva á rafmagningu, heldur ROM sínu. 
 ## 3. Hvað er fyrirbyggjandi viðhald?
-### Svar:
+### Fyrirbyggjandi viðhald er þegar þú setur upp tölvu með sterkum grunn og viðheldur henni vel. Þá er hugsað út í ýmsa hluti eins og t.d. staðsetningu tölvu, loftflæði kassa, regluleg rykhreinsun. Fyrirbyggjandi viðhald á líka við hugbúnað og getur verið hvaða forrit eru sett upp og að útgáfur þeirra séu stöðugar, af sjálfsögðu líka að vélin sé með góðri vírusvörn.
 ## 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ### ESD stendur fyrir Electrostatic Discharge. ESD getur komið fyrir þegar t.d. einstaklingur sem er að meðhöndla tölvubúnað, snertir íhlutinn þegar hann er með hlaðið upp rafmagn í líkamanum og eyðileggur eitthvað. Ýmsar leiðir eru til til að komast framhjá þessu óhappi. ESD armbönd eru eitt af þeim, það er þegar sá sem er að meðhöndla íhlutinn er jarðtengdur með armbandi um úlliðinn eða ökklann. **ESD mottur** eru líka notaðar, það er þegar íhlutur er geymdur á mottu sem ver hluti sem geymdir eru á henni, frá rafmagni.
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
