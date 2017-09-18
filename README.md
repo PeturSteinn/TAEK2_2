@@ -11,7 +11,12 @@
 ## 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 ### Hvort að þeir séu nógu kraftmiklir til að keyra vélbúnaðinn sem ættlast er til að nota. Eins er hægt að fara út í sparneytni ef maður hefur áhuga á því. Svo líka að versla frá viðurkenndum aðila.
 ## 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
-### Svar:
+### 1. Fá uppl. frá notandanum sjálfum og skoða error skilaboð, fá almennar uppl. um hvað vandamálið snýst.
+### 2. Púnkta niður allt sem er að.
+### 3. Athuga allt sem maður heldur að sé að og afhverju hlutirnir virka ekki eðlilega.
+### 4. Gera viðgerðaráætlun og framkvæma hana.
+### 5. Ganga úr skugga með að alltsaman virki eðlilega.
+### 6. Skrifa niður hver bilunin væri og hvað var gert til að laga hana. Ræða svo við notanda um málið.
 ## 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
 ### Closed ended spurning er spurning sem leitar eftir stuttu svari eins og já/nei. Open ended spurning er spurning sem krefst þess að sá sem svarar, rökstyðji eða gefi langt svar, eiginlega eins og þessi spurning.
 ## 8. Hvað eru jaðartæki?
