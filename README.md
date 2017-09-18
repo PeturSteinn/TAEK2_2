@@ -25,13 +25,13 @@
 ### Mús, SD card reader, webcam.
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 |Íhlutur|Verslun|Verð|
-|-------|-------|----|
-|i7-7700K|<a href=""></a>|45.900,-|
-|GA-Z270 Gaming K3|<a href=""></a>|24.990,-|
-|GTX 1080 Aorus|<a href=""></a>|83.990,-|
-|G750H 750W|<a href=""></a>|19.990,-|
-|16GB 2400MHz (2x8GB)|<a href=""></a>|21.990,-|
-|240GB SSD|<a href=""></a>|12.990,-|
-|NH-D15|<a href=""></a>|15.990,-|
-|Fractal Design Core 2500|<a href=""></a>|16.990,-|
-|||242.830,-|
+|-------|-------|---:|
+|i7-7700K|<a href="https://odyrid.is/vara/intel-core-i7-7700k-quad-core-orgjorvi-unlocked-retail-an-viftu">Ódýrið</a>|45.900,-|
+|GA-Z270 Gaming K3|<a href="https://odyrid.is/vara/gigabyte-s1151-ga-z270x-gaming-k3-modurbord-cc1151-z270-gam-k3">Ódýrið</a>|24.990,-|
+|GTX 1080 Aorus|<a href="https://odyrid.is/vara/aorus-geforce-gtx-1080-skjakort-8gb-gddr5x">Ódýrið</a>|83.990,-|
+|G750H 750W|<a href="https://odyrid.is/vara/gigabyte-g750h-750w-aflgjafi-80-plus-gold-modular">Ódýrið</a>|19.990,-|
+|16GB 2400MHz (2x8GB)|<a href="https://odyrid.is/vara/adata-16gb-ddr4-2400mhz-2x8gb-xpg-gammix-d10-vinnsluminni-cl16">Ódýrið</a>|21.990,-|
+|240GB SSD|<a href="https://odyrid.is/vara/240gb-sata3-silicon-power-ssd-25-s55-low-profile">Ódýrið</a>|12.990,-|
+|NH-D15|<a href="https://odyrid.is/vara/noctua-nh-d15-orgjorvakaeling-amd-intel-6-ara-abyrgd">Ódýrið</a>|15.990,-|
+|Fractal Design Core 2500|<a href="https://odyrid.is/vara/fractal-design-core-2500-atx-turnkassi-svartur">Ódýrið</a>|16.990,-|
+|||Samtals: 242.830,-|
