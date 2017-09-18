@@ -35,4 +35,4 @@
 |NH-D15|<a href="https://odyrid.is/vara/noctua-nh-d15-orgjorvakaeling-amd-intel-6-ara-abyrgd">Ódýrið</a>|15.990,-|
 |Fractal Design Core 2500|<a href="https://odyrid.is/vara/fractal-design-core-2500-atx-turnkassi-svartur">Ódýrið</a>|16.990,-|
 |||Samtals: 242.830,-|
-<img src="https://odyrid.is/skrar/image/myndir_product/CO1151_I7_7700K_R.jpg">
+<img src="https://odyrid.is/skrar/image/myndir_product/CO1151_I7_7700K_R.jpg" height="50%" width="50%">
