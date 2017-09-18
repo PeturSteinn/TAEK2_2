@@ -26,4 +26,12 @@
 ## 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
 |Íhlutur|Verslun|Verð|
 |-------|-------|----|
-|i7-7700K|Ódýrið|50.000,-|
+|i7-7700K|<a href=""></a>|45.900,-|
+|GA-Z270 Gaming K3|<a href=""></a>|24.990,-|
+|GTX 1080 Aorus|<a href=""></a>|83.990,-|
+|G750H 750W|<a href=""></a>|19.990,-|
+|16GB 2400MHz (2x8GB)|<a href=""></a>|21.990,-|
+|240GB SSD|<a href=""></a>|12.990,-|
+|NH-D15|<a href=""></a>|15.990,-|
+|Fractal Design Core 2500|<a href=""></a>|16.990,-|
+|||242.830,-|
